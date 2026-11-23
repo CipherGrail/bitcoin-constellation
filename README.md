@@ -63,3 +63,10 @@ We intend to publish progress and limitations openly, step by step.
 *Bitcoin Constellation — A universe written by the blockchain.*
 
 **— CipherGrail**
+
+## Join the conversation
+
+- [Discuss the project on BitcoinTalk](https://bitcointalk.org/index.php?topic=5600744.0)
+- [Read our first public announcement on X](https://x.com/CipherGrail/status/2124914857980166255)
+
+We welcome thoughtful technical criticism, research questions and ideas for new analytical uses.
